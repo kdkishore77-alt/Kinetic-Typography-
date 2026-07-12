@@ -1,0 +1,13 @@
+KEY STATISTICAL FINDINGS
+=======================
+
+1. Redistribution Effect (Curly/Readability):
+   TR vs Center difference: 3.4% (95%% CI [-7.7, 13.9], p=0.5340)
+
+2. Trade-off Shift:
+   Flat correlation: r=0.85
+   Curly correlation: r=0.75
+
+3. Entropy Stability:
+   Aesthetic CV: 0.021
+   Readability CV: 0.095

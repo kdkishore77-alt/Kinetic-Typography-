@@ -1,0 +1,13 @@
+Background,Dimension,Frequencies,Total,GOF_p_value,is_significant
+Radial,Aesthetic,"[62, 53, 52, 24, 17]",208,1.2792262917179771e-07,True
+Radial,Readability,"[23, 25, 123, 16, 21]",208,3.448751945428469e-42,True
+Radial,Attention,"[27, 40, 85, 29, 27]",208,3.870653409983524e-12,True
+Wavy,Aesthetic,"[38, 42, 47, 19, 62]",208,0.00011039372547527724,True
+Wavy,Readability,"[41, 39, 55, 25, 48]",208,0.016650381992412117,True
+Wavy,Attention,"[35, 39, 62, 26, 46]",208,0.0015251269979528299,True
+Curly,Aesthetic,"[40, 35, 46, 50, 37]",208,0.43676227628858844,False
+Curly,Readability,"[40, 23, 58, 65, 22]",208,1.6071502811561602e-07,True
+Curly,Attention,"[30, 30, 68, 47, 33]",208,3.633944080139983e-05,True
+Flat,Aesthetic,"[41, 39, 48, 20, 60]",208,0.0003960332821064422,True
+Flat,Readability,"[44, 32, 62, 29, 41]",208,0.0027835639807401117,True
+Flat,Attention,"[29, 34, 68, 30, 47]",208,3.3237138417846426e-05,True
